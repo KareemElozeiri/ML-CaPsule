@@ -4,3 +4,10 @@
  [Dataset Link](https://www.kaggle.com/hetulmehta/website-classification)
  
  ## Installs and Libraries :
+ ```
+pip install "pandas==1.4.0"
+```
+
+```
+pip install "numpy==1.22.2"
+```
